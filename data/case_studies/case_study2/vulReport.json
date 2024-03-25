@@ -1,0 +1,10 @@
+{
+  "output_list": [
+    {
+      "function_name": "mint",
+      "code": "function mint(address _holder, uint _value) external {\n    require(msg.sender == ico);\n    require(_value != 0);\n    require(totalSupply + _value <= TOKEN_LIMIT);\n    balances[_holder] += _value;\n    totalSupply += _value;\n    Transfer(0x0, _holder, _value);\n}",
+      "vulnerability": "Potential Integer Overflow",
+      "reason": "The mint function does not check for potential integer overflow when updating the totalSupply and balances. An attacker could exploit this by minting a large amount of tokens that would cause an overflow, resulting in unexpected behavior and potentially allowing the attacker to mint more tokens than intended."
+    }
+  ]
+}

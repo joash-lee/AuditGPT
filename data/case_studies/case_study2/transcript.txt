@@ -1,0 +1,5 @@
+Below are details of the full transcript of the user with auditGPT for Case Study 2
+
+1. Pre-Analysis Transcript Link: https://platform.openai.com/playground/p/GLXj0DNWYnT0dJsIFSoQWcSP?model=gpt-3.5-turbo-0125&mode=chat
+2. Vulnerability Detection Transcript Link: https://platform.openai.com/playground/p/Hz32uQbqitz1Bc6MvTzrsYIO?model=gpt-3.5-turbo-0125&mode=chat
+3. Verification Transcript Link: https://platform.openai.com/playground/p/Hz32uQbqitz1Bc6MvTzrsYIO?model=gpt-3.5-turbo-0125&mode=chat

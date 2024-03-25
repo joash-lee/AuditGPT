@@ -1,0 +1,74 @@
+{
+  "CVE-2018-11429": {
+    "vulnerability_type": "Integer Overflow",
+    "function_name": "mint"
+  },
+  "CVE-2018-11335": {
+    "vulnerability_type": "Integer Overflow",
+    "function_name": "mint"
+  },
+  "CVE-2018-13836": {
+    "vulnerability_type": "Integer Overflow",
+    "function_name": "multiTransfer"
+  },
+  "CVE-2018-17882": {
+    "vulnerability_type": "Integer Overflow",
+    "function_name": "batchTransfer"
+  },
+  "CVE-2018-10468": {
+    "vulnerability_type": "Wrong Logic",
+    "function_name": "transferFrom"
+  },
+  "CVE-2018-11411": {
+    "vulnerability_type": "Wrong Logic",
+    "function_name": "transferFrom"
+  },
+  "CVE-2018-12025": {
+    "vulnerability_type": "Wrong Logic",
+    "function_name": "transferFrom"
+  },
+  "CVE-2021-3004": {
+    "vulnerability_type": "Wrong Logic",
+    "function_name": "_deposit"
+  },
+  "CVE-2018-15552": {
+    "vulnerability_type": "Bad Randomness",
+    "function_name": "PayWinner"
+  },
+  "CVE-2018-14715": {
+    "vulnerability_type": "Bad Randomness",
+    "function_name": "endCoinFlip"
+  },
+  "CVE-2018-17877": {
+    "vulnerability_type": "Bad Randomness",
+    "function_name": "luckyBuy"
+  },
+  "CVE-2018-10666": {
+    "vulnerability_type": "Access Control",
+    "function_name": "setOwner"
+  },
+  "CVE-2018-10705": {
+    "vulnerability_type": "Access Control",
+    "function_name": "setOwner"
+  },
+  "CVE-2018-19830": {
+    "vulnerability_type": "Access Control",
+    "function_name": "UBSexToken()"
+  },
+  "CVE-2019-15078": {
+    "vulnerability_type": "Typo Constructor",
+    "function_name": "constructor"
+  },
+  "CVE-2019-15079": {
+    "vulnerability_type": "Typo Constructor",
+    "function_name": "constructor"
+  },
+  "CVE-2019-15080": {
+    "vulnerability_type": "Typo Constructor",
+    "function_name": "constructor"
+  },
+  "CVE-2018-18425": {
+    "vulnerability_type": "Token Devalue",
+    "function_name": "doAirdrop"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "project_details": {
+    "multiple_files": false,
+    "file_count": 1,
+    "file_details": [
+      {
+        "file_name": "ATL.sol",
+        "line_count": 116,
+        "file_size": "Medium"
+      }
+    ]
+  },
+  "existing_vulnerabilities": [],
+  "areas_concern_function_name": ["mint"]
+}

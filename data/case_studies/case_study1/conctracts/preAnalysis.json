@@ -1,0 +1,25 @@
+{
+  "project_details": {
+    "multiple_files": true,
+    "file_count": 3,
+    "file_details": [
+      {
+        "file_name": "SPXToken.sol",
+        "line_count": 148,
+        "file_size": "3.7 KB"
+      },
+      {
+        "file_name": "DimonCoin.sol",
+        "line_count": 123,
+        "file_size": "3.1 KB"
+      },
+      {
+        "file_name": "ATL.sol",
+        "line_count": 107,
+        "file_size": "2.7 KB"
+      }
+    ]
+  },
+  "existing_vulnerabilities": [],
+  "areas_concern_function_name": ["transfer function in ATL.sol"]
+}
