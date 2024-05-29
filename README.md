@@ -4,6 +4,6 @@ AuditGPT is a smart contract auditor made on the streamlit platform. Its goal is
 
 You may run the platform locally or access it at this link: https://auditgpt.streamlit.app/
 
-This Project was done for a final year project for Nanyang Technological University, Singapore for the school of computer science
+This Project was done for a final year project for Nanyang Technological University, Singapore for the School of Computer Science
 
-More details of the project can be found at this link: https://dr.ntu.edu.sg/handle/10356/175342
+You may read about the project in the paper: "Interactive smart contract auditing with ChatGPT" found at this link: https://dr.ntu.edu.sg/handle/10356/175342
